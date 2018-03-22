@@ -26,6 +26,5 @@ h1 {
 	margin-left: 100px;
 }
 body {
-    background-color:url("gradient_bg.png");
-    background-repeat: repeat-x;
+    background-image:url("gradient_bg.png");
 }
