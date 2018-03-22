@@ -1,0 +1,27 @@
+div h2 {
+    margin: 70px;
+    border: 1px solid #4CAF50;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+div div h2{
+    margin: 70px;
+    border: 1px solid #4CAF50;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+img {
+	max-width: 100%;
+}
+header {
+	text-align: right;
+}
+h1 {
+	position: absolute;
+	top: 20px;
+	margin-left: 100px;
+}
