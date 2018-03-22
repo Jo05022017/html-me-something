@@ -6,6 +6,7 @@ div h2 {
     padding-bottom: 50px;
     padding-left: 80px;
     background-color: rgba(208, 235, 233, 0.973);
+    text-align: center;
 }
 div div h2{
     margin: 70px;
@@ -15,6 +16,7 @@ div div h2{
     padding-bottom: 50px;
     padding-left: 80px;
     background-color: rgba(208, 235, 233, 0.973);
+    text-align: center;
 }
 img {
     max-width: 80%;
@@ -30,7 +32,11 @@ header {
 	top: 20px;
     margin-left: 100px;
     text-align: center;
+    
 }
 body {
     background-color: rgb(214, 222, 224);
+}
+p{
+    text-align: center;
 }
