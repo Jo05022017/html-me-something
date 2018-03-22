@@ -5,7 +5,7 @@ div h2 {
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
-    background-color: rgb(60, 98, 110);
+    background-color: rgba(208, 235, 233, 0.973);
 }
 div div h2{
     margin: 70px;
@@ -14,7 +14,7 @@ div div h2{
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
-    background-color: rgb(60, 98, 110);
+    background-color: rgba(208, 235, 233, 0.973);
 }
 img {
     max-width: 80%;
