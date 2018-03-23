@@ -23,17 +23,21 @@ img {
     margin-right: auto;
 }
 header {
-	text-align: center;
+    text-align: center;
+    font-size: 1.6em;
 }
 .intro {
 	position: absolute;
 	top: 20px;
     margin-left: 100px;
     text-align: center;
+    padding: 1.875em 0;
+    display: block;
     
 }
 body {
-    background-color: rgb(214, 222, 224);
+    background-color: rgb(214, 222, 224);   
+
 }
 
 
