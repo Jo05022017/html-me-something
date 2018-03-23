@@ -39,5 +39,9 @@ body {
     background-color: rgb(214, 222, 224);   
 
 }
+html{
+    font-family: sans-serif;
+    display: block;
+}
 
 
