@@ -36,7 +36,11 @@ header {
     
 }
 body {
-    background-color: rgb(214, 222, 224);   
+    background-color: rgb(214, 222, 224);
+    font-size: 62.5%;
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;   
 
 }
 html{
